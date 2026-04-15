@@ -1,0 +1,31 @@
+.DS_Store
+Thumbs.db
+
+# Local agent and editor files
+AGENTS.md
+.vscode/
+.deepeval/
+
+# Python and notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+starter/.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+.venv/
+venv/
+
+# Training artifacts and reports
+best_model.pt
+starter/best_model.pt
+SESSION_REPORT.md
+
+# Large datasets and downloaded archives
+starter/aclImdb/
+starter/aclImdb_v1.tar.gz
+
+# Optional local notebook output copies
+starter/SentimentScope_executed.ipynb
