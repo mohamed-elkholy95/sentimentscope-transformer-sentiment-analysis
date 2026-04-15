@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sentimentscope-banner.png" alt="SentimentScope banner" width="100%" />
+<img src="assets/sentimentscope-banner.jpg" alt="SentimentScope banner" width="100%" />
 
 # SentimentScope
 
